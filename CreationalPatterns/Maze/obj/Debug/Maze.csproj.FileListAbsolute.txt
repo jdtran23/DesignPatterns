@@ -1,0 +1,5 @@
+D:\projects\DesignPatterns\AbstractFactory\Maze\bin\Debug\Maze.dll
+D:\projects\DesignPatterns\AbstractFactory\Maze\bin\Debug\Maze.pdb
+D:\projects\DesignPatterns\AbstractFactory\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+D:\projects\DesignPatterns\AbstractFactory\Maze\obj\Debug\Maze.dll
+D:\projects\DesignPatterns\AbstractFactory\Maze\obj\Debug\Maze.pdb

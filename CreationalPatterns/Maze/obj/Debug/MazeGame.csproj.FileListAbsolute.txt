@@ -1,0 +1,5 @@
+D:\projects\DesignPatterns\CreationalPatterns\Maze\bin\Debug\Maze.dll
+D:\projects\DesignPatterns\CreationalPatterns\Maze\bin\Debug\Maze.pdb
+D:\projects\DesignPatterns\CreationalPatterns\Maze\obj\Debug\MazeGame.csprojResolveAssemblyReference.cache
+D:\projects\DesignPatterns\CreationalPatterns\Maze\obj\Debug\Maze.dll
+D:\projects\DesignPatterns\CreationalPatterns\Maze\obj\Debug\Maze.pdb

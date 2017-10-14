@@ -1,0 +1,16 @@
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\Maze.dll
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\bin\Debug\Maze.pdb
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\projects\DesignPatterns\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\Maze.dll
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\bin\Debug\Maze.pdb
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\projects\DesignPatterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
